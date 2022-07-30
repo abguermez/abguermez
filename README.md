@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdellah ELGUERMEZ</h1>
 <h3 align="center">Passionate about AI ♥</h3>
 <img align="right" alt="Ai" width= "400" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif">
